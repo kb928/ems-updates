@@ -1,0 +1,7 @@
+{
+    "version": "2.0",
+    "releaseDate": "2024-12-17",
+    "description": "Current stable version - No updates needed",
+    "patchUrl": "https://YOUR-USERNAME.github.io/ems-updates/patch-2.0.js",
+    "mandatory": false
+}
